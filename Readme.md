@@ -1,8 +1,7 @@
 使用说明：
 jdk:1.8
 idea:2019.2
-开源：是，在2020.6.25日后
-开源地址：
+
 结果展示:
 ==============================================================
 /Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/bin/java... 

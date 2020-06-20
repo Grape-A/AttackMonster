@@ -7,7 +7,7 @@ import java.util.Scanner;
  * This program is used to AttackMonsters javadoc.
  * Program Name:AttackMonster
  * Date:20/6/2020
- * @author PuZhang/SF190709
+ * @author PuZ
  * @version 1.0
  */
 public class AttackMonsters {
